@@ -1,4 +1,4 @@
-"# CNN-prediction" 
+
 Experiment: Designing a custom CNN network using VGG blocks and train using different optimizer and batch size.
 
 Investigating the impact of different optimizers and batch sizes on the performance of a custom CNN built with VGG blocks.
